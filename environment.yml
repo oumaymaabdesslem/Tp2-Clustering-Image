@@ -11,7 +11,4 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - cv2
-  - sklearn.cluster
-  - skimage.io
-
+  
