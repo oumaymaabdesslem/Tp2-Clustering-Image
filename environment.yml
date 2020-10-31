@@ -13,5 +13,5 @@ dependencies:
   - dask
   - scikit-image
   - scikit-learn
-  - opencv-python
+  - opencv
   
